@@ -48,6 +48,7 @@ https://github.com/digital-legacy
 * Scories numériques
 * Ramasse-miettes numérique
 * Mes poussières numériques 
+* Testament numérique
 * ... 
 
 ## Ressources 
