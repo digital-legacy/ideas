@@ -62,6 +62,7 @@ https://github.com/digital-legacy
 
 ### Éric Daspet 
 * [Que se passe-t-il le jour où je ne suis plus là ?](https://n.survol.fr/n/que-se-passe-t-il-le-jour-ou-je-ne-suis-plus-la)
+* [Que se passe-t-il le jour où je ne suis plus là ? (bis)](https://n.survol.fr/n/que-se-passe-t-il-le-jour-ou-je-ne-suis-plus-la-bis)
 * [Spécifications](https://docs.google.com/document/d/1hn_WQAcR3kjW_HRWGjbaYCMxDu60h3lMQyyRE_urTNk/edit)
 
 ### Autres ressources
