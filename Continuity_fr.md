@@ -73,4 +73,5 @@ https://github.com/digital-legacy
 * [Vestiges](http://www.cecilearen.es/2013/02/vestiges/)
 * [et toi, tu fais quoi de ton site après mourir ?](http://www.tierslivre.net/spip/spip.php?article3389)
 * [Après la carte de donneur d’organes, voici la carte de donneur au domaine public !](https://scinfolex.com/2010/12/05/apres-la-carte-de-donneur-dorganes-voici-la-carte-de-donneur-au-domaine-public/)
+* [Death and UX: Digital Afterlife and Digital Legacy](https://www.paris-web.fr/2015/conferences/death-and-ux-digital-afterlife-and-digital-legacy.php) (vidéo en anglais, sous titrée en français)
 
