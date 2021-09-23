@@ -64,6 +64,8 @@ https://github.com/digital-legacy
 * [Que se passe-t-il le jour où je ne suis plus là ?](https://n.survol.fr/n/que-se-passe-t-il-le-jour-ou-je-ne-suis-plus-la)
 * [Que se passe-t-il le jour où je ne suis plus là ? (bis)](https://n.survol.fr/n/que-se-passe-t-il-le-jour-ou-je-ne-suis-plus-la-bis)
 * [Spécifications](https://docs.google.com/document/d/1hn_WQAcR3kjW_HRWGjbaYCMxDu60h3lMQyyRE_urTNk/edit)
+* [Laisser les clefs en partant](https://n.survol.fr/n/laisser-les-clefs-en-partant)
+* [Carte de donneur au domaine public !](https://n.survol.fr/n/carte-de-donneur-au-domaine-public)
 
 ### Autres ressources
 * [Des scories numériques](http://www.la-grange.net/2013/01/18/testament)
