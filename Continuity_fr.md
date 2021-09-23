@@ -67,6 +67,12 @@ https://github.com/digital-legacy
 * [Laisser les clefs en partant](https://n.survol.fr/n/laisser-les-clefs-en-partant)
 * [Carte de donneur au domaine public !](https://n.survol.fr/n/carte-de-donneur-au-domaine-public)
 
+### Stéphane Deschamps 
+
+* [Pratique du testament numérique](https://nota-bene.org/Pratique-du-testament-numerique)
+* [Digital legacy, so far](https://nota-bene.org/Digital-legacy-so-far)
+* [Testament numérique, le retour](https://nota-bene.org/Testament-numerique-le-retour)
+
 ### Autres ressources
 * [Des scories numériques](http://www.la-grange.net/2013/01/18/testament)
 * [Je dois faire face au décès d’un proche](https://www.service-public.fr/particuliers/vosdroits/F16507)
